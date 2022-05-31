@@ -14,9 +14,9 @@ In the Markov model, each trading day can fall under one of eight possible state
 | 7 | Decreased | Decreased | Increased | 
 | 8 | Decreased | Decreased | Increased | 
 
+By obtaining the transition matrix, it is possible to determine the steady-state probabilities that a trading day falls under each state.
 
-
-
+Short-term investors may also be interested to know how many days it usually takes before the stock price starts falling for two consecutive days, so that they can sell before this occurs. By setting States 7 and 8 as absorbing states, it is also possible to determine (a) how many days on average it takes until the stock price falls for two consecutive days for each non-absorbing state, and (b) the probability that volume either increases or decreases when the stock price falls two days in a row for each non-absorbing state.
 
 ## Prerequisites
 Run the following code to download the libraries used in the repo.
