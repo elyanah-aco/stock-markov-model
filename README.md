@@ -3,10 +3,10 @@ MATH 102.1 (Operations Research) project. Contains R code for Markov models to p
 
 ## Background
 In the Markov model, each trading day can fall under one of eight possible states:
-| State  | Price yesterday |
-| ------ | --------------- |
-| 1 | Increased |
-| 2 | Increased |
+| State  | Price between two days ago and yesterday | Price between yesterday and todaytoday | Volume between yesterday and today | 
+| ------ | --------------- | ----------- | ---------------------------------- |
+| 1 | Increased | | | 
+| 2 | Increased | | | 
 
 
 ## Prerequisites
