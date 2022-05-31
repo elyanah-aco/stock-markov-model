@@ -9,6 +9,5 @@ install.packages('dplyr')
 install.packages('janitor')
 install.packages('quantmod')
 ```
-
 ## Upcoming revisions
 Future versions will contain an RShiny version of the analysis.
