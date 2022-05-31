@@ -7,7 +7,15 @@ In the Markov model, each trading day can fall under one of eight possible state
 | ------ | --------------- | ----------- | ---------------------------------- |
 | 1 | Increased | Increased | Incresed  | 
 | 2 | Increased | Increased | Decreased |
-| 3 | | | |
+| 3 | Decreased | Increased | Increased |
+| 4 | Decreased | Increased | Decreased |
+| 5 | Increased | Decreased | Increased |
+| 6 | Increased | Decreased | Decreased |
+| 7 | Decreased | Decreased | Increased | 
+| 8 | Decreased | Decreased | Increased | 
+
+
+
 
 
 ## Prerequisites
