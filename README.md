@@ -1,4 +1,4 @@
-# stock_markov_model
+# Markov Chain Models for Stock Trends
 MATH 102.1 (Operations Research) project. Contains R code for Markov models to predict stock trends, as inspired by a similar analysis by Huang and Lu (2016, doi: 10.1080/03610926.2017.1300281) for Taiwan Stock Exchange Capitalization Weighted Stock Index (TAIEX) Futures.
 
 ## Prerequisites
